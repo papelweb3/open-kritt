@@ -1,0 +1,4 @@
+{
+  "name": "Open-Kritt Development",
+  "postStartCommand": "bash .devcontainer/startup.sh"
+}
